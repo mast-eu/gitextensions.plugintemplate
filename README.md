@@ -1,5 +1,5 @@
 # GitExtensions Plugin Template
-An example/empty repository for building a GitExtensions plugin that can be installed using [GitExtensions.PluginManager](https://github.com/gitextensions/gitextensions.pluginmanager).
+An example repository for building a Git Extensions plugin that can be installed using [GitExtensions.PluginManager](https://github.com/gitextensions/gitextensions.pluginmanager).
 
 The package is going to be published on [NuGet.org](https://www.nuget.org/packages/GitExtensions.PluginTemplate) feed.
 
